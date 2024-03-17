@@ -1,5 +1,5 @@
 WPU RESOLUSI
-saya bisa belajar GIT
+saya bisa belajar GIT dan github
 membuat flatform dalam 2 minggu
 membuat forum diskusi
 membuat workshop
@@ -7,3 +7,4 @@ kolaborasi dengan expert
 biar tambah tau
 biar bisa pindah kantor
 gak diem aja
+semoga bisa , amin
